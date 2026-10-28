@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Seeking+PhD+in+Medical+AI;Deep+Learning+Specialist;CUDA+Optimization+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Seeking+PhD+in+Medical+AI;Applied+Deep+Learning;CUDA+Optimization+Enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
