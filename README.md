@@ -1,22 +1,15 @@
-<h1 align="center">Hi, I'm Yasmina! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="28"></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="28">
+  <h1>Hi, I'm Yasmina!</h1>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Vision+Engineer;Medical+AI+Researcher;Deep+Learning+Specialist;CUDA+Optimization+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Medical+AI+Researcher;Deep+Learning+Specialist;CUDA+Optimization+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <em>I build geometry-aware architectures for 3D medical imaging and engineer them to survive the harsh reality of hardware constraints. Deeply invested in clinical translation, and occasionally fighting (and winning against) CUDA Out-Of-Memory errors.</em>
-</p>
+> **I build geometry-aware architectures for 3D medical imaging and engineer them to survive the harsh reality of hardware constraints. Deeply invested in clinical translation, and occasionally fighting (and winning against) CUDA Out-Of-Memory errors.** 💥💻
 
 <br>
-
-<!-- Cartes de statistiques dynamiques (Fun & Pro) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasYes&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=8b949e" alt="Yasmina's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasYes&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=8b949e" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### 🔬 What I'm currently up to
 - **Research:** Tackling 3D volumetric segmentation and multimodal Vision-Language frameworks.
@@ -42,32 +35,30 @@
 
 ---
 
-### 🛠️ The Toolbox
-*Categorized for clarity, because great architectures need solid foundations.*
+### 🛠️ The Tech Stack
 
-**Deep Learning & Medical AI** <br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/MONAI-Medical_AI-0A516D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+| 🧠 Deep Learning & AI | ⚡ Core Engineering | 🌍 Vision & Data |
+| :--- | :--- | :--- |
+| 🔸 PyTorch | 🐍 Python | 👁️ OpenCV |
+| 🏥 MONAI | 🟩 CUDA Optimization | 🗺️ GDAL / Rasterio |
+| 📊 Scikit-Learn | 🐧 Linux / Bash | 🗃️ SQL |
 
-**Core Engineering & Optimization** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA_Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<br>
 
-**Vision & Spatial Data** <br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/GDAL_/_Rasterio-GeoSpatial-333333?style=for-the-badge" />
+<!-- Modern GitHub Stats with 'Tokyo Night' theme -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasYes&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasmina's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasYes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 <p align="center">
-  Always open to discussing 3D segmentation, explainable AI, or the most elegant ways to optimize tensor operations.<br><br>
   <a href="https://www.linkedin.com/in/yasmina-bouziane">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bouziane.yasmn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
