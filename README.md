@@ -1,41 +1,31 @@
+<!-- BANNIÈRE ANIMÉE (Effet Waouh garanti) -->
 <div align="center">
-  <h1>Hi, I'm Yasmina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=Yasmina%20Bouziane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20Medical%20AI&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
+<!-- ANIMATION TEXTUELLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Seeking+PhD+in+Medical+AI;Deep+Learning+Specialist;CUDA+Optimization+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Seeking+PhD+in+Medical+AI;Deep+Learning+Specialist;CUDA+Optimization+Enthusiast" alt="Typing SVG" />
 </p>
 
+<!-- TA PHRASE FÉTICHE MISE EN VALEUR -->
 <div align="center">
-  <i><b>"Currently seeking a PhD position in Medical AI. My ambition is to build geometry-aware architectures for 3D medical imaging and engineer them to survive the harsh reality of hardware constraints. Deeply invested in clinical translation, and occasionally fighting (and winning against) CUDA Out-Of-Memory errors. 💥💻"</b></i>
-</div>
-
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%">
-</p>
-<br>
-
-<h3 align="center">🔬 Research & Engineering Focus</h3>
-<div align="center">
-  <p><b>Research Target:</b> Actively seeking a PhD opportunity to tackle 3D volumetric segmentation and multimodal Vision-Language frameworks applied to clinical data.</p>
-  <p><b>Engineering:</b> Squeezing state-of-the-art models into limited VRAM without sacrificing structural integrity.</p>
+  <h3><i>"Building geometry-aware architectures for 3D medical imaging and engineering them to survive the harsh reality of hardware constraints."</i></h3>
+  <p><b>Deeply invested in clinical translation, and occasionally fighting (and winning against) CUDA Out-Of-Memory errors. 💥💻</b></p>
 </div>
 
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%"></p>
 <br>
 
 <h3 align="center">🛠️ The Tech Arsenal</h3>
-<br>
 
-<!-- Python isolé comme langage principal -->
+<!-- PYTHON ISOLÉ COMME LANGAGE MAÎTRE -->
 <p align="center">
   <img src="https://img.shields.io/badge/Core_Language_-_Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+<!-- LE RESTE DE LA STACK -->
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/MONAI-%230A516D.svg?style=for-the-badge&logo=python&logoColor=white" alt="MONAI"/>
@@ -48,45 +38,51 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%"></p>
 <br>
 
 <h3 align="center">🚀 Highlighted Work</h3>
 
+<!-- DESIGN PORTFOLIO EN 2 COLONNES (L'atout Pro) -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🧠 <a href="https://github.com/YasYes/brats-3d-segmentation">3D Medical Imaging (BraTS)</a></h4>
+      <p align="center"><i>End-to-end PyTorch/MONAI pipeline for 3D volumetric segmentation of brain tumors.</i></p>
+      <ul>
+        <li><b>Architecture:</b> 3D U-Nets with sliding window inference.</li>
+        <li><b>Focus:</b> Balancing local boundary delineation with global topological context.</li>
+        <li><b>Honest Metric:</b> Preliminary validation Dice score of ~0.86 on initial tests.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🛰️ Industrial R&D @ Thales</h4>
+      <p align="center"><i>NDA protected codebase, real-world engineering impact.</i></p>
+      <ul>
+        <li><b>Focus:</b> Adapted 13-channel satellite super-resolution model to 3-channel RGB.</li>
+        <li><b>Engineering:</b> Solved severe CUDA OOM via AMP & spatial tiling (8,500+ image pairs).</li>
+        <li><b>Impact:</b> 37% reduction in perceptual error (LPIPS).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- PROJET MINEUR CENTRÉ EN DESSOUS -->
 <div align="center">
-
-#### 🧠 [3D Medical Imaging Pipeline (BraTS)](https://github.com/YasYes/brats-3d-segmentation)
-*End-to-end PyTorch/MONAI pipeline for 3D volumetric segmentation of brain tumors.*<br>
-**Focus:** Balancing local boundary delineation with global topological context using 3D U-Nets.<br>
-**Honest Metric:** Reached a preliminary validation Dice score of ~0.86 on initial inference tests.
-
-<br>
-
-#### 👁️ Retinal Vessel Segmentation (SDAE)
-*Robust feature extraction for fine tubular structures.*<br>
-**Focus:** Designed a Stacked Denoising Autoencoder to preserve complex micro-vasculature under extreme domain noise.
-
-<br>
-
-#### 🛰️ Industrial R&D @ Thales
-*The code is under NDA, but the impact is real.*<br>
-**Engineering:** Solved severe CUDA memory bottlenecks via Automatic Mixed Precision (AMP) and spatial tiling to process 8,500+ high-res image pairs, driving a 37% reduction in LPIPS error.
-
+  <br>
+  <h4>👁️ Retinal Vessel Segmentation (SDAE)</h4>
+  <p><i>Designed a Stacked Denoising Autoencoder to preserve complex micro-vasculature under extreme domain noise, prioritizing structural integrity over superficial metrics.</i></p>
 </div>
 
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%"></p>
 <br>
 
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
   Always open to discussing 3D segmentation, explainable AI, or the most elegant ways to optimize tensor operations.<br><br>
   
-  <!-- Liens de contact en format Markdown pur pour contourner les blocages HTML de GitHub -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-bouziane)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouziane.yasmn@gmail.com)
+  <!-- CONTACT EN TEXTE CLAIR ET INFAILLIBLE -->
+  📧 <b>Email:</b> <a href="mailto:bouziane.yasmn@gmail.com">bouziane.yasmn@gmail.com</a><br>
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yasmina-bouziane">linkedin.com/in/yasmina-bouziane</a>
 </p>
