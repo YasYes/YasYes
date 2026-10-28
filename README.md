@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<!-- BIO TERMINAL PYTHON (L'upgrade ultime) -->
+<!-- BIO TERMINAL PYTHON -->
 ```python
 class Yasmina(MedicalAIResearcher):
     def __init__(self):
