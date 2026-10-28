@@ -75,7 +75,7 @@
 <br>
 
 <details>
-  <summary><b>👁️ Retinal Vessel Segmentation</b> <i>(Academic Research)</i></summary>
+  <summary><b>👁️ Retinal Vessel Segmentation</b> <i>(Academic Project)</i></summary>
   <br>
   <blockquote>
     <i>Robust feature extraction for fine tubular structures.</i><br><br>
