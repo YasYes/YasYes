@@ -1,5 +1,6 @@
+<!-- BANNIÈRE ANIMÉE BLEUE -->
 <div align="center">
-  <h1>Hi, I'm Yasmina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=Yasmina%20Bouziane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20Medical%20AI&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -8,18 +9,6 @@
 
 <div align="center">
   <i><b>"Currently seeking a PhD position in Medical AI. My ambition is to build geometry-aware architectures for 3D medical imaging and engineer them to survive the harsh reality of hardware constraints. Deeply invested in clinical translation, and occasionally fighting (and winning against) CUDA Out-Of-Memory errors. 💥💻"</b></i>
-</div>
-
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%">
-</p>
-<br>
-
-<h3 align="center">🔬 Research & Engineering Focus</h3>
-<div align="center">
-  <p><b>Research Target:</b> Actively seeking a PhD opportunity to tackle 3D volumetric segmentation and multimodal Vision-Language frameworks applied to clinical data.</p>
-  <p><b>Engineering:</b> Squeezing state-of-the-art models into limited VRAM without sacrificing structural integrity.</p>
 </div>
 
 <br>
@@ -53,25 +42,46 @@
 <br>
 
 <h3 align="center">🚀 Highlighted Work</h3>
+<p align="center"><i>(Click on a project to unfold details)</i></p>
 
+<!-- CARTES INTERACTIVES QUI SE DÉROULENT -->
 <div align="center">
 
-#### 🧠 [3D Medical Imaging Pipeline (BraTS)](https://github.com/YasYes/brats-3d-segmentation)
-*End-to-end PyTorch/MONAI pipeline for 3D volumetric segmentation of brain tumors.*<br>
-**Focus:** Balancing local boundary delineation with global topological context using 3D U-Nets.<br>
-**Honest Metric:** Reached a preliminary validation Dice score of ~0.86 on initial inference tests.
+<details>
+  <summary><b>🧠 3D Medical Imaging Pipeline (BraTS)</b> <i>(GitHub Repo)</i></summary>
+  <br>
+  <blockquote>
+    <i>End-to-end PyTorch/MONAI pipeline for 3D volumetric segmentation of brain tumors.</i><br><br>
+    <b>Architecture:</b> 3D U-Nets with sliding window inference.<br>
+    <b>Focus:</b> Balancing local boundary delineation with global topological context.<br>
+    <b>Honest Metric:</b> Reached a preliminary validation Dice score of ~0.86 on initial inference tests.<br><br>
+    <a href="https://github.com/YasYes/brats-3d-segmentation">🔗 View Source Code</a>
+  </blockquote>
+</details>
 
 <br>
 
-#### 👁️ Retinal Vessel Segmentation (SDAE)
-*Robust feature extraction for fine tubular structures.*<br>
-**Focus:** Designed a Stacked Denoising Autoencoder to preserve complex micro-vasculature under extreme domain noise.
+<details>
+  <summary><b>🛰️ Industrial R&D @ Thales</b> <i>(Defense Sector)</i></summary>
+  <br>
+  <blockquote>
+    <i>The code is under NDA, but the real-world impact is measurable.</i><br><br>
+    <b>Focus:</b> Adapted a 13-channel satellite super-resolution model to standard 3-channel RGB inputs.<br>
+    <b>Engineering:</b> Solved severe CUDA memory bottlenecks via Automatic Mixed Precision (AMP) and spatial tiling to process 8,500+ high-res image pairs.<br>
+    <b>Impact:</b> Drove a 37% reduction in perceptual error (LPIPS) and >95% cost avoidance in raw geospatial data procurement.
+  </blockquote>
+</details>
 
 <br>
 
-#### 🛰️ Industrial R&D @ Thales
-*The code is under NDA, but the impact is real.*<br>
-**Engineering:** Solved severe CUDA memory bottlenecks via Automatic Mixed Precision (AMP) and spatial tiling to process 8,500+ high-res image pairs, driving a 37% reduction in LPIPS error.
+<details>
+  <summary><b>👁️ Retinal Vessel Segmentation</b> <i>(Academic Research)</i></summary>
+  <br>
+  <blockquote>
+    <i>Robust feature extraction for fine tubular structures.</i><br><br>
+    <b>Focus:</b> Designed a Stacked Denoising Autoencoder (SDAE) to preserve complex micro-vasculature under extreme domain noise, prioritizing geometric truth over superficial accuracy metrics.
+  </blockquote>
+</details>
 
 </div>
 
