@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="28">
-  <h1>Hi, I'm Yasmina!</h1>
+  <h1>Hi, I'm Yasmina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 </div>
 
 <p align="center">
@@ -31,15 +30,18 @@
 
 <h3 align="center">🛠️ The Tech Arsenal</h3>
 <br>
+
+<!-- Python isolé comme langage principal -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Core_Language_-_Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/MONAI-%230A516D.svg?style=for-the-badge&logo=python&logoColor=white" alt="MONAI"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <br>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/CUDA_Optimization-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <br>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/GDAL_/_Rasterio-%23333333.svg?style=for-the-badge&logo=map&logoColor=white" alt="GDAL"/>
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -83,10 +85,8 @@
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
   Always open to discussing 3D segmentation, explainable AI, or the most elegant ways to optimize tensor operations.<br><br>
-  <a href="https://www.linkedin.com/in/yasmina-bouziane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bouziane.yasmn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
+  <!-- Liens de contact en format Markdown pur pour contourner les blocages HTML de GitHub -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-bouziane)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouziane.yasmn@gmail.com)
 </p>
